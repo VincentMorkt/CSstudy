@@ -1,0 +1,41 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "build",
+                "${workspaceFolder}/Study & practice CS/Educational exercises. CS 9 & .NET 5 - Mark J. Price/01/01 HelloCS/01 HelloCS.csproj",
+                "/property:GenerateFullPaths=true",
+                "/consoleloggerparameters:NoSummary"
+            ],
+            "problemMatcher": "$msCompile"
+        },
+        {
+            "label": "publish",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "publish",
+                "${workspaceFolder}/Study & practice CS/Educational exercises. CS 9 & .NET 5 - Mark J. Price/01/01 HelloCS/01 HelloCS.csproj",
+                "/property:GenerateFullPaths=true",
+                "/consoleloggerparameters:NoSummary"
+            ],
+            "problemMatcher": "$msCompile"
+        },
+        {
+            "label": "watch",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "watch",
+                "run",
+                "--project",
+                "${workspaceFolder}/Study & practice CS/Educational exercises. CS 9 & .NET 5 - Mark J. Price/01/01 HelloCS/01 HelloCS.csproj"
+            ],
+            "problemMatcher": "$msCompile"
+        }
+    ]
+}

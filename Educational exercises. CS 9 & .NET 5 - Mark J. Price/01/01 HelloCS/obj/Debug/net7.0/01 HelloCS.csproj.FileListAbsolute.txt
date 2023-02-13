@@ -1,0 +1,15 @@
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\01\01 HelloCS\bin\Debug\net7.0\01 HelloCS.exe
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\01\01 HelloCS\bin\Debug\net7.0\01 HelloCS.deps.json
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\01\01 HelloCS\bin\Debug\net7.0\01 HelloCS.runtimeconfig.json
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\01\01 HelloCS\bin\Debug\net7.0\01 HelloCS.dll
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\01\01 HelloCS\bin\Debug\net7.0\01 HelloCS.pdb
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\01\01 HelloCS\obj\Debug\net7.0\01 HelloCS.csproj.AssemblyReference.cache
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\01\01 HelloCS\obj\Debug\net7.0\01 HelloCS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\01\01 HelloCS\obj\Debug\net7.0\01 HelloCS.AssemblyInfoInputs.cache
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\01\01 HelloCS\obj\Debug\net7.0\01 HelloCS.AssemblyInfo.cs
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\01\01 HelloCS\obj\Debug\net7.0\01 HelloCS.csproj.CoreCompileInputs.cache
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\01\01 HelloCS\obj\Debug\net7.0\01 HelloCS.dll
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\01\01 HelloCS\obj\Debug\net7.0\refint\01 HelloCS.dll
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\01\01 HelloCS\obj\Debug\net7.0\01 HelloCS.pdb
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\01\01 HelloCS\obj\Debug\net7.0\01 HelloCS.genruntimeconfig.cache
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\01\01 HelloCS\obj\Debug\net7.0\ref\01 HelloCS.dll
