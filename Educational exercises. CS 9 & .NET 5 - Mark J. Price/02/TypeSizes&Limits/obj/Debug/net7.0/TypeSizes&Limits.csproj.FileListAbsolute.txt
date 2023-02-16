@@ -1,0 +1,15 @@
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\02\TypeSizes&Limits\bin\Debug\net7.0\TypeSizes&Limits.exe
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\02\TypeSizes&Limits\bin\Debug\net7.0\TypeSizes&Limits.deps.json
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\02\TypeSizes&Limits\bin\Debug\net7.0\TypeSizes&Limits.runtimeconfig.json
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\02\TypeSizes&Limits\bin\Debug\net7.0\TypeSizes&Limits.dll
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\02\TypeSizes&Limits\bin\Debug\net7.0\TypeSizes&Limits.pdb
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\02\TypeSizes&Limits\obj\Debug\net7.0\TypeSizes&Limits.csproj.AssemblyReference.cache
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\02\TypeSizes&Limits\obj\Debug\net7.0\TypeSizes&Limits.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\02\TypeSizes&Limits\obj\Debug\net7.0\TypeSizes&Limits.AssemblyInfoInputs.cache
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\02\TypeSizes&Limits\obj\Debug\net7.0\TypeSizes&Limits.AssemblyInfo.cs
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\02\TypeSizes&Limits\obj\Debug\net7.0\TypeSizes&Limits.csproj.CoreCompileInputs.cache
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\02\TypeSizes&Limits\obj\Debug\net7.0\TypeSizes&Limits.dll
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\02\TypeSizes&Limits\obj\Debug\net7.0\refint\TypeSizes&Limits.dll
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\02\TypeSizes&Limits\obj\Debug\net7.0\TypeSizes&Limits.pdb
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\02\TypeSizes&Limits\obj\Debug\net7.0\TypeSizes&Limits.genruntimeconfig.cache
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\02\TypeSizes&Limits\obj\Debug\net7.0\ref\TypeSizes&Limits.dll

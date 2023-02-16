@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "Variables"
+		},
+		{
+			"path": "Basics"
+		},
+		{
+			"path": "Numbers"
+		},
+		{
+			"path": "Arrays"
+		},
+		{
+			"path": "NullHandling"
+		},
+		{
+			"path": "Formatting"
+		},
+		{
+			"path": "Arguments"
+		}
+	],
+	"settings": {}
+}
