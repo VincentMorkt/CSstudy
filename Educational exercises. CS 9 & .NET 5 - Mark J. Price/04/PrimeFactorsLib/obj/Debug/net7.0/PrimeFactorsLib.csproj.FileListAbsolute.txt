@@ -1,0 +1,12 @@
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\04\PrimeFactorsLib\obj\Debug\net7.0\PrimeFactorsLib.csproj.AssemblyReference.cache
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\04\PrimeFactorsLib\obj\Debug\net7.0\PrimeFactorsLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\04\PrimeFactorsLib\obj\Debug\net7.0\PrimeFactorsLib.AssemblyInfoInputs.cache
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\04\PrimeFactorsLib\obj\Debug\net7.0\PrimeFactorsLib.AssemblyInfo.cs
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\04\PrimeFactorsLib\obj\Debug\net7.0\PrimeFactorsLib.csproj.CoreCompileInputs.cache
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\04\PrimeFactorsLib\bin\Debug\net7.0\PrimeFactorsLib.deps.json
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\04\PrimeFactorsLib\bin\Debug\net7.0\PrimeFactorsLib.dll
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\04\PrimeFactorsLib\bin\Debug\net7.0\PrimeFactorsLib.pdb
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\04\PrimeFactorsLib\obj\Debug\net7.0\PrimeFactorsLib.dll
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\04\PrimeFactorsLib\obj\Debug\net7.0\refint\PrimeFactorsLib.dll
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\04\PrimeFactorsLib\obj\Debug\net7.0\PrimeFactorsLib.pdb
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\04\PrimeFactorsLib\obj\Debug\net7.0\ref\PrimeFactorsLib.dll

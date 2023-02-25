@@ -1,0 +1,15 @@
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\Operators\bin\Debug\net7.0\Operators.exe
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\Operators\bin\Debug\net7.0\Operators.deps.json
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\Operators\bin\Debug\net7.0\Operators.runtimeconfig.json
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\Operators\bin\Debug\net7.0\Operators.dll
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\Operators\bin\Debug\net7.0\Operators.pdb
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\Operators\obj\Debug\net7.0\Operators.csproj.AssemblyReference.cache
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\Operators\obj\Debug\net7.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\Operators\obj\Debug\net7.0\Operators.AssemblyInfoInputs.cache
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\Operators\obj\Debug\net7.0\Operators.AssemblyInfo.cs
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\Operators\obj\Debug\net7.0\Operators.csproj.CoreCompileInputs.cache
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\Operators\obj\Debug\net7.0\Operators.dll
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\Operators\obj\Debug\net7.0\refint\Operators.dll
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\Operators\obj\Debug\net7.0\Operators.pdb
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\Operators\obj\Debug\net7.0\Operators.genruntimeconfig.cache
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\Operators\obj\Debug\net7.0\ref\Operators.dll

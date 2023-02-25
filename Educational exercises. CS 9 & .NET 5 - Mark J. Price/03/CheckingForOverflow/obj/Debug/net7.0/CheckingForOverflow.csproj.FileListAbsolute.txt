@@ -1,0 +1,15 @@
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\CheckingForOverflow\bin\Debug\net7.0\CheckingForOverflow.exe
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\CheckingForOverflow\bin\Debug\net7.0\CheckingForOverflow.deps.json
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\CheckingForOverflow\bin\Debug\net7.0\CheckingForOverflow.runtimeconfig.json
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\CheckingForOverflow\bin\Debug\net7.0\CheckingForOverflow.dll
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\CheckingForOverflow\bin\Debug\net7.0\CheckingForOverflow.pdb
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\CheckingForOverflow\obj\Debug\net7.0\CheckingForOverflow.csproj.AssemblyReference.cache
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\CheckingForOverflow\obj\Debug\net7.0\CheckingForOverflow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\CheckingForOverflow\obj\Debug\net7.0\CheckingForOverflow.AssemblyInfoInputs.cache
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\CheckingForOverflow\obj\Debug\net7.0\CheckingForOverflow.AssemblyInfo.cs
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\CheckingForOverflow\obj\Debug\net7.0\CheckingForOverflow.csproj.CoreCompileInputs.cache
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\CheckingForOverflow\obj\Debug\net7.0\CheckingForOverflow.dll
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\CheckingForOverflow\obj\Debug\net7.0\refint\CheckingForOverflow.dll
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\CheckingForOverflow\obj\Debug\net7.0\CheckingForOverflow.pdb
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\CheckingForOverflow\obj\Debug\net7.0\CheckingForOverflow.genruntimeconfig.cache
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\CheckingForOverflow\obj\Debug\net7.0\ref\CheckingForOverflow.dll

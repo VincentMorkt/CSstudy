@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "BolleanOperators/1.0.0": {
+        "runtime": {
+          "BolleanOperators.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BolleanOperators/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

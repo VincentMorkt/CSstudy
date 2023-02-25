@@ -1,0 +1,15 @@
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\BitwiseAndShiftOperators\obj\Debug\net7.0\BitwiseAndShiftOperators.csproj.AssemblyReference.cache
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\BitwiseAndShiftOperators\obj\Debug\net7.0\BitwiseAndShiftOperators.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\BitwiseAndShiftOperators\obj\Debug\net7.0\BitwiseAndShiftOperators.AssemblyInfoInputs.cache
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\BitwiseAndShiftOperators\obj\Debug\net7.0\BitwiseAndShiftOperators.AssemblyInfo.cs
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\BitwiseAndShiftOperators\obj\Debug\net7.0\BitwiseAndShiftOperators.csproj.CoreCompileInputs.cache
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\BitwiseAndShiftOperators\bin\Debug\net7.0\BitwiseAndShiftOperators.exe
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\BitwiseAndShiftOperators\bin\Debug\net7.0\BitwiseAndShiftOperators.deps.json
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\BitwiseAndShiftOperators\bin\Debug\net7.0\BitwiseAndShiftOperators.runtimeconfig.json
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\BitwiseAndShiftOperators\bin\Debug\net7.0\BitwiseAndShiftOperators.dll
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\BitwiseAndShiftOperators\bin\Debug\net7.0\BitwiseAndShiftOperators.pdb
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\BitwiseAndShiftOperators\obj\Debug\net7.0\BitwiseAndShiftOperators.dll
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\BitwiseAndShiftOperators\obj\Debug\net7.0\refint\BitwiseAndShiftOperators.dll
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\BitwiseAndShiftOperators\obj\Debug\net7.0\BitwiseAndShiftOperators.pdb
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\BitwiseAndShiftOperators\obj\Debug\net7.0\BitwiseAndShiftOperators.genruntimeconfig.cache
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\BitwiseAndShiftOperators\obj\Debug\net7.0\ref\BitwiseAndShiftOperators.dll

@@ -1,0 +1,15 @@
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\04\WritingFunctions\obj\Debug\net7.0\WritingFunctions.csproj.AssemblyReference.cache
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\04\WritingFunctions\obj\Debug\net7.0\WritingFunctions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\04\WritingFunctions\obj\Debug\net7.0\WritingFunctions.AssemblyInfoInputs.cache
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\04\WritingFunctions\obj\Debug\net7.0\WritingFunctions.AssemblyInfo.cs
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\04\WritingFunctions\obj\Debug\net7.0\WritingFunctions.csproj.CoreCompileInputs.cache
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\04\WritingFunctions\bin\Debug\net7.0\WritingFunctions.exe
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\04\WritingFunctions\bin\Debug\net7.0\WritingFunctions.deps.json
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\04\WritingFunctions\bin\Debug\net7.0\WritingFunctions.runtimeconfig.json
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\04\WritingFunctions\bin\Debug\net7.0\WritingFunctions.dll
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\04\WritingFunctions\bin\Debug\net7.0\WritingFunctions.pdb
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\04\WritingFunctions\obj\Debug\net7.0\WritingFunctions.dll
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\04\WritingFunctions\obj\Debug\net7.0\refint\WritingFunctions.dll
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\04\WritingFunctions\obj\Debug\net7.0\WritingFunctions.pdb
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\04\WritingFunctions\obj\Debug\net7.0\WritingFunctions.genruntimeconfig.cache
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\04\WritingFunctions\obj\Debug\net7.0\ref\WritingFunctions.dll

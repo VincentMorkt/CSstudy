@@ -1,0 +1,15 @@
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\Exercise04\bin\Debug\net7.0\Exercise04.exe
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\Exercise04\bin\Debug\net7.0\Exercise04.deps.json
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\Exercise04\bin\Debug\net7.0\Exercise04.runtimeconfig.json
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\Exercise04\bin\Debug\net7.0\Exercise04.dll
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\Exercise04\bin\Debug\net7.0\Exercise04.pdb
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\Exercise04\obj\Debug\net7.0\Exercise04.csproj.AssemblyReference.cache
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\Exercise04\obj\Debug\net7.0\Exercise04.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\Exercise04\obj\Debug\net7.0\Exercise04.AssemblyInfoInputs.cache
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\Exercise04\obj\Debug\net7.0\Exercise04.AssemblyInfo.cs
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\Exercise04\obj\Debug\net7.0\Exercise04.csproj.CoreCompileInputs.cache
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\Exercise04\obj\Debug\net7.0\Exercise04.dll
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\Exercise04\obj\Debug\net7.0\refint\Exercise04.dll
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\Exercise04\obj\Debug\net7.0\Exercise04.pdb
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\Exercise04\obj\Debug\net7.0\Exercise04.genruntimeconfig.cache
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\Exercise04\obj\Debug\net7.0\ref\Exercise04.dll

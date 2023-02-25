@@ -1,0 +1,15 @@
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\BolleanOperators\bin\Debug\net7.0\BolleanOperators.exe
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\BolleanOperators\bin\Debug\net7.0\BolleanOperators.deps.json
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\BolleanOperators\bin\Debug\net7.0\BolleanOperators.runtimeconfig.json
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\BolleanOperators\bin\Debug\net7.0\BolleanOperators.dll
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\BolleanOperators\bin\Debug\net7.0\BolleanOperators.pdb
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\BolleanOperators\obj\Debug\net7.0\BolleanOperators.csproj.AssemblyReference.cache
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\BolleanOperators\obj\Debug\net7.0\BolleanOperators.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\BolleanOperators\obj\Debug\net7.0\BolleanOperators.AssemblyInfoInputs.cache
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\BolleanOperators\obj\Debug\net7.0\BolleanOperators.AssemblyInfo.cs
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\BolleanOperators\obj\Debug\net7.0\BolleanOperators.csproj.CoreCompileInputs.cache
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\BolleanOperators\obj\Debug\net7.0\BolleanOperators.dll
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\BolleanOperators\obj\Debug\net7.0\refint\BolleanOperators.dll
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\BolleanOperators\obj\Debug\net7.0\BolleanOperators.pdb
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\BolleanOperators\obj\Debug\net7.0\BolleanOperators.genruntimeconfig.cache
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\BolleanOperators\obj\Debug\net7.0\ref\BolleanOperators.dll

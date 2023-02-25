@@ -1,0 +1,15 @@
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\SelectionStatement\bin\Debug\net7.0\SelectionStatement.exe
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\SelectionStatement\bin\Debug\net7.0\SelectionStatement.deps.json
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\SelectionStatement\bin\Debug\net7.0\SelectionStatement.runtimeconfig.json
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\SelectionStatement\bin\Debug\net7.0\SelectionStatement.dll
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\SelectionStatement\bin\Debug\net7.0\SelectionStatement.pdb
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\SelectionStatement\obj\Debug\net7.0\SelectionStatement.csproj.AssemblyReference.cache
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\SelectionStatement\obj\Debug\net7.0\SelectionStatement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\SelectionStatement\obj\Debug\net7.0\SelectionStatement.AssemblyInfoInputs.cache
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\SelectionStatement\obj\Debug\net7.0\SelectionStatement.AssemblyInfo.cs
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\SelectionStatement\obj\Debug\net7.0\SelectionStatement.csproj.CoreCompileInputs.cache
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\SelectionStatement\obj\Debug\net7.0\SelectionStatement.dll
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\SelectionStatement\obj\Debug\net7.0\refint\SelectionStatement.dll
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\SelectionStatement\obj\Debug\net7.0\SelectionStatement.pdb
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\SelectionStatement\obj\Debug\net7.0\SelectionStatement.genruntimeconfig.cache
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\SelectionStatement\obj\Debug\net7.0\ref\SelectionStatement.dll

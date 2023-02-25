@@ -1,0 +1,15 @@
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\HandlingExceptions\bin\Debug\net7.0\HandlingExceptions.exe
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\HandlingExceptions\bin\Debug\net7.0\HandlingExceptions.deps.json
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\HandlingExceptions\bin\Debug\net7.0\HandlingExceptions.runtimeconfig.json
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\HandlingExceptions\bin\Debug\net7.0\HandlingExceptions.dll
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\HandlingExceptions\bin\Debug\net7.0\HandlingExceptions.pdb
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\HandlingExceptions\obj\Debug\net7.0\HandlingExceptions.csproj.AssemblyReference.cache
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\HandlingExceptions\obj\Debug\net7.0\HandlingExceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\HandlingExceptions\obj\Debug\net7.0\HandlingExceptions.AssemblyInfoInputs.cache
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\HandlingExceptions\obj\Debug\net7.0\HandlingExceptions.AssemblyInfo.cs
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\HandlingExceptions\obj\Debug\net7.0\HandlingExceptions.csproj.CoreCompileInputs.cache
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\HandlingExceptions\obj\Debug\net7.0\HandlingExceptions.dll
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\HandlingExceptions\obj\Debug\net7.0\refint\HandlingExceptions.dll
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\HandlingExceptions\obj\Debug\net7.0\HandlingExceptions.pdb
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\HandlingExceptions\obj\Debug\net7.0\HandlingExceptions.genruntimeconfig.cache
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\03\HandlingExceptions\obj\Debug\net7.0\ref\HandlingExceptions.dll

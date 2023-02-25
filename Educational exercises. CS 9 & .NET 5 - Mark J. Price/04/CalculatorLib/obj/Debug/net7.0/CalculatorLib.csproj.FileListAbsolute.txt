@@ -1,0 +1,12 @@
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\04\CalculatorLib\bin\Debug\net7.0\CalculatorLib.deps.json
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\04\CalculatorLib\bin\Debug\net7.0\CalculatorLib.dll
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\04\CalculatorLib\bin\Debug\net7.0\CalculatorLib.pdb
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\04\CalculatorLib\obj\Debug\net7.0\CalculatorLib.csproj.AssemblyReference.cache
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\04\CalculatorLib\obj\Debug\net7.0\CalculatorLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\04\CalculatorLib\obj\Debug\net7.0\CalculatorLib.AssemblyInfoInputs.cache
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\04\CalculatorLib\obj\Debug\net7.0\CalculatorLib.AssemblyInfo.cs
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\04\CalculatorLib\obj\Debug\net7.0\CalculatorLib.csproj.CoreCompileInputs.cache
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\04\CalculatorLib\obj\Debug\net7.0\CalculatorLib.dll
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\04\CalculatorLib\obj\Debug\net7.0\refint\CalculatorLib.dll
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\04\CalculatorLib\obj\Debug\net7.0\CalculatorLib.pdb
+D:\Documents\Projects\Study & practice CS\Educational exercises. CS 9 & .NET 5 - Mark J. Price\04\CalculatorLib\obj\Debug\net7.0\ref\CalculatorLib.dll
